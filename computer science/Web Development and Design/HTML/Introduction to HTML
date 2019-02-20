@@ -55,3 +55,9 @@ The <hr> tag stands for Horizontal Line. It just makes a nice little divider in 
 Finally, the <html> tag is just everything in the website, from data to visible features.
 Note that, all tags have an ending tag with a back slash. This shows the tag's jurisdiction, and that tag will not keep going after the ending tag.
 the <hr> tag does not have an ending tag because no text is affected by it.
+
+
+I hope you liked this Introduction to HTML, and continue your HTML journey, whether it is with this repository, or with a learning tool like CodeHS.
+Thank you.
+
+ - Swcbn
