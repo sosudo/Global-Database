@@ -1,0 +1,57 @@
+HTML - Hyper-Link Markup Language
+
+What is HTML?
+  HTML is a markup language which you can use to create web pages, along with Javascript and CSS (Cascade Style Sheets).
+
+Why would someone use HTML when they could use Wix or Webnode?
+  Because you have to pay to remove the watermarks, and you can choose your own domain name (not yet though, we'll get there, don't worry).
+
+What is a domain?
+  The domain is the name the internet servers store your website by. Your domain can be website.wix.com, which has the Wix watermark.
+  Or you can have website.com, which has no Wix watermark in it.
+  Which do you want?
+
+What do I need to make a website?
+  A computer with access to the Internet for this tutorial.
+
+Let's Get Started
+-------------------------------------------------------------------------------
+
+1. Go to codehs.com
+2. Make an account if you don't already have one
+3. Log in to your account
+4. Click Sandbox in the upper right-hand corner
+5. Put in a name, and click the button that says Create Program!
+6. Click on HTML and press the button again
+
+Here is a sample code for today. Remember, from now on, you will have to type this out yourself.
+-------------------------------------------------------------------------------
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <hr>
+    <p>Hello World</p>
+  </body>
+</html>
+
+
+Try figuring out what each thing is before continuing forward.
+---------------------------------------------------------------------------------
+
+
+
+
+Well <Doctype html> shows which version of HTML you're using, so others can add on to it, if they choose to.
+The <head> section tells data about the webpage, but doesn't display anything, unless you add a <title> tag, which is the name you see in the browser tab.
+The <body> tag shows what users will see on the actual website.
+The <h1> tag is a heading tag, so the text in between <h1> and </h1> will be in the heading form of h1.
+These go from <h1> to <h6>.
+The <p> tag stands for paragraph. That will be just regular text.
+The <hr> tag stands for Horizontal Line. It just makes a nice little divider in between your text.
+Finally, the <html> tag is just everything in the website, from data to visible features.
+Note that, all tags have an ending tag with a back slash. This shows the tag's jurisdiction, and that tag will not keep going after the ending tag.
+the <hr> tag does not have an ending tag because no text is affected by it.
